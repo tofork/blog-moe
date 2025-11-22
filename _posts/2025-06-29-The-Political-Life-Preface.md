@@ -1,7 +1,7 @@
 ---
 permalink: /:year/:month/:day/:title/
 layout: post
-title: "政治的人生 -自序"
+title: "政治的人生 -自序（摘录）"
 author: "svipwly"
 date: 2025-06-29 03:13:00 +0800
 categories: Favorites
